@@ -32,7 +32,7 @@ public class fibonacci : MonoBehaviour
 
     private void GetFibonacci(long num, TextMeshProUGUI display_value)
     {
-        long t1 = 0;
+        long t1 = 0; 
         long t2 = 1;
         long t_total = 0;
 
